@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinhcoshtanh
+- 👋 Hi, I’m @sinhcoshtanh on GitHub
 - 👀 I’m interested in:
     * Mathematics, more specifically all forms of [Calculus](https://en.wikipedia.org/wiki/Calculus) and [Complex Numbers](https://en.wikipedia.org/wiki/Complex_number)
     * Healthy domestic privacy practices such as [encryption](https://www.privacytools.io/) and [passwords](https://youtu.be/3NjQ9b3pgIg).
