@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinhcoshtanh
 - 👀 I’m interested in Mathematics, more specifically all forms of [Calculus](https://en.wikipedia.org/wiki/Calculus) and [Complex Numbers](https://en.wikipedia.org/wiki/Complex_number)
-- 🌱 I’m currently learning Stochastic Processes and Statistics
+- 🌱 I’m currently learning [Stochastic Processes and Statistics](https://study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/what-will-i-study/#sample-plans)
 - 💞️ I’m looking to collaborate on Data Science related projects for coding projects.
 - :fountain_pen: I'm currently doing whatever I can to better educate people Mathematics. 
 
